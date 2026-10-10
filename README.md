@@ -50,7 +50,7 @@ cd SPEED-OF-LIGHT
 uv init
 
 # Add Pygame dependency to the project
-uv add pygame
+uv add pygame-ce
 
 # Run the simulation script
 uv run main.py
